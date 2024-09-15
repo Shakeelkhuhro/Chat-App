@@ -22,13 +22,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/realtime-chat-application.git
+   git clone https://github.com/shakeelkhuhro/Chat-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd realtime-chat-application
+   cd Chat-App
    ```
 
 3. Install dependencies for both client and server:
